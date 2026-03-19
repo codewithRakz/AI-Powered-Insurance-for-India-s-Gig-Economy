@@ -195,13 +195,6 @@ The system detects coordinated fraud using:
 
 ---
 
-## Demo Video  
-
-Paste your video link here:  
-VIDEO_LINK  
-
----
-
 ## Conclusion  
 
 GigShield AI provides a **fully automated, AI-powered insurance solution** tailored for India’s gig economy. By focusing on income protection, weekly pricing, and fraud-resistant architecture, the platform ensures financial stability for delivery partners during external disruptions.
