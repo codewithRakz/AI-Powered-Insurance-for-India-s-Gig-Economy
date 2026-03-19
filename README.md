@@ -4,7 +4,7 @@ AI-Powered Parametric Insurance for Food Delivery Partners
 ---
 
 ## Team Details  
-- Team Name: YOUR_TEAM_NAME  
+- Team Name: Apex Innovators 
 - Hackathon: Guidewire DEVTrails 2026  
 - Phase: Ideation & Foundation  
 
